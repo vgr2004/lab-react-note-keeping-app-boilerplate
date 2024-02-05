@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(69, 69, 232, 0.802);
+}
+.container{
+    display: flex;
+    color: white;
+}
+.input{
+    text-align: left;
+    margin: 20px;
+}
+.output{
+    text-align: left;
+    margin: 20px;
+}
+.input-text{
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgba(69, 69, 232, 0.802);
+    height: 500px;
+    width: 700px;
+    color: white;
+    margin-top: 10px;
+}
+.output-text{
+    padding: 20px;
+    box-shadow: 0px 0px 20px 0px black;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+}
+h3{
+    margin: 0;
+}
